@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg3291"
+   viewBox="0 0 500 500"
+   version="1.1"
+   sodipodi:docname="propeller.svg"
+   width="500"
+   height="500"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview205"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.169"
+     inkscape:cx="318.64842"
+     inkscape:cy="378.52866"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3291" />
+  <defs
+     id="defs3293">
+    <filter
+       id="filter3298"
+       x="-0.23904117"
+       y="-0.23406006"
+       width="1.4779001"
+       height="1.4712813">
+      <feGaussianBlur
+         id="feGaussianBlur3300"
+         stdDeviation="4.6970312499999993" />
+    </filter>
+    <linearGradient
+       id="linearGradient3312"
+       y2="383.81"
+       gradientUnits="userSpaceOnUse"
+       x2="548.22998"
+       y1="401.48999"
+       x1="529.35999">
+      <stop
+         id="stop3308"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop3310"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g375"
+     transform="translate(-1.2956366,19.677453)">
+    <g
+       id="layer2"
+       transform="matrix(0.60787527,0,0,0.60787527,-56.216305,-32.325029)">
+      <path
+         id="path2991-1"
+         d="m 602.12,437.3 a 68.52,68.52 0 1 1 -137.04,0 68.52,68.52 0 1 1 137.04,0 z"
+         transform="matrix(1.1004,0,0,1.1004,-82.403,-48.315)" />
+    </g>
+    <g
+       id="layer1"
+       opacity="0.66667"
+       transform="matrix(0.60787527,0,0,0.60787527,-56.216305,-32.325029)">
+      <path
+         id="path3269"
+         opacity="1"
+         d="m 504.99,431.65 c -5.2124,-10.536 19.635,-45.825 26.233,-49.494 9.3981,-2.2654 22.707,10.404 21.757,20.218 -15.858,10.079 -32.677,19.751 -47.99,29.276 z"
+         transform="matrix(1.2641,0.18993,-0.19205,1.2737,-56.272,-208.27)"
+         filter="url(#filter3298)"
+         stroke="#000000"
+         stroke-width="0.7424px"
+         fill="url(#linearGradient3312)"
+         style="fill:url(#linearGradient3312)" />
+    </g>
+    <g
+       id="layer3"
+       transform="matrix(0.60787527,0,0,0.60787527,-56.216305,-32.325029)">
+      <g
+         id="layer4">
+        <path
+           id="path3015"
+           d="m 576.13,407.08 c 117.96,-22.662 340.26,-21.417 343.15,65.293 -0.33735,5.7282 -4.0146,5.2912 -7.8004,5.0641 -225.35,-22.246 -317.35,5.1734 -318.74,2.4973 -2.2504,-4.3245 -3.4536,-14.043 -7.0603,-28.2 h -7.6389 c 3.2878,-17.273 2.2048,-27.701 -1.9071,-44.654 z"
+           fill="#333333" />
+      </g>
+      <g
+         id="layer5">
+        <path
+           id="path3019"
+           d="m 599.62,403.08 2.423,23.711 c 34.045,-9.3988 79.237,-18.409 149.71,-15.23 l -1.5576,-16.096 c -53.531,-0.79528 -106.13,-1.1347 -150.57,7.6152 z" />
+      </g>
+      <g
+         id="layer6">
+        <path
+           id="path3017"
+           d="m 750.19,395.63 0.51921,4.1537 c 129.87,5.9466 156.31,42.165 159.57,64.383 1.5027,5.0918 3.0887,10.054 8.6536,8.8267 -1.042,-11.778 -0.0211,-69.062 -168.74,-77.363 z"
+           fill="#cccccc" />
+      </g>
+      <g
+         id="layer7"
+         font-family="Sans">
+        <text
+           id="text3025"
+           style="text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           line-height="84%"
+           xml:space="preserve"
+           font-size="1.5882px"
+           transform="rotate(86.62)"
+           y="-616.59625"
+           x="483.04224"
+           fill="#ffffff">         <tspan
+   id="tspan3027"
+   y="-616.59625"
+   x="483.04224"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">lskjiahdjskdfd</tspan>         <tspan
+   id="tspan3029"
+   y="-615.26215"
+   x="483.04224"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdjsfasssjwei</tspan>         <tspan
+   id="tspan3031"
+   y="-613.92804"
+   x="483.04224"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdflsskjs      eisksf</tspan>      </text>
+        <text
+           id="text3021"
+           style="letter-spacing:0px;word-spacing:0px"
+           xml:space="preserve"
+           transform="matrix(0.055428,0.99846,-0.99846,0.055428,0,0)"
+           line-height="125%"
+           font-size="4.3687px"
+           y="-620.38995"
+           x="472.35757"
+           fill="#000000">         <tspan
+   id="tspan3023"
+   style="letter-spacing:-0.10922px"
+   font-weight="bold"
+   y="-620.38995"
+   x="472.35757"
+   font-family="'Enter Sansman'"
+   fill="#ffffff">DOWTY</tspan>      </text>
+      </g>
+    </g>
+    <g
+       id="g3092"
+       transform="matrix(0.60787527,0,0,0.60787527,-56.216305,-32.325029)">
+      <g
+         id="g3094">
+        <path
+           id="path3096"
+           d="m 562.57,481.32 c 79.459,90.082 191.34,282.17 118.13,328.72 -5.105,2.6202 -6.5971,-0.76906 -8.3252,-4.1451 -95.35,-205.39 -165.71,-270.69 -164.11,-273.25 2.5811,-4.1356 10.34,-10.11 20.701,-20.41 l -3.8816,-6.5792 c 16.548,-5.9454 24.978,-12.177 37.49,-24.333 z"
+           fill="#333333" />
+      </g>
+      <g
+         id="g3098">
+        <path
+           id="path3100"
+           d="m 577.95,499.51 -19.19,14.135 c 25.395,24.547 56.118,58.891 89.189,121.2 l 13.071,-9.5203 c -26.52,-46.51 -52.95,-91.99 -83.07,-125.81 z" />
+      </g>
+      <g
+         id="g3102">
+        <path
+           id="path3104"
+           d="m 660.87,625.41 -3.3137,2.5578 c 60.868,114.87 43.112,156.06 25.632,170.15 -3.6219,3.8815 -7.0897,7.7689 -3.205,11.938 9.6144,-6.8821 59.471,-35.111 -19.114,-184.65 z"
+           fill="#cccccc" />
+      </g>
+      <g
+         id="g3106"
+         font-family="Sans">
+        <text
+           id="text3108"
+           style="text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           line-height="84%"
+           xml:space="preserve"
+           font-size="1.5882px"
+           transform="rotate(146.08)"
+           y="-778.85547"
+           x="-155.52618"
+           fill="#ffffff">         <tspan
+   id="tspan3110"
+   y="-778.85547"
+   x="-155.52618"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">lskjiahdjskdfd</tspan>         <tspan
+   id="tspan3112"
+   y="-777.52136"
+   x="-155.52618"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdjsfasssjwei</tspan>         <tspan
+   id="tspan3114"
+   y="-776.18726"
+   x="-155.52618"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdflsskjs      eisksf</tspan>      </text>
+        <text
+           id="text3116"
+           style="letter-spacing:0px;word-spacing:0px"
+           line-height="125%"
+           xml:space="preserve"
+           font-size="4.3687px"
+           transform="rotate(146.28308)"
+           y="-780.33337"
+           x="-166.79469"
+           fill="#000000">         <tspan
+   id="tspan3118"
+   style="letter-spacing:-0.10922px"
+   font-weight="bold"
+   y="-780.33337"
+   x="-166.79469"
+   font-family="'Enter Sansman'"
+   fill="#ffffff">DOWTY</tspan>      </text>
+      </g>
+    </g>
+    <g
+       id="g3120"
+       transform="matrix(0.60787527,0,0,0.60787527,-56.216305,-32.325029)">
+      <g
+         id="g3122">
+        <path
+           id="path3124"
+           d="M 491.08,507.85 C 450.41,620.88 335.95,811.44 259.89,769.7 c -4.755,-3.212 -2.5033,-6.152 -0.37692,-9.2924 134.09,-182.49 157.43,-275.6 160.44,-275.43 4.8675,0.27021 13.84,4.1924 27.857,8.3115 l 3.8964,-6.5704 c 13.18,11.639 22.702,16.026 39.381,21.137 z"
+           fill="#333333" />
+      </g>
+      <g
+         id="g3126">
+        <path
+           id="path3128"
+           d="m 482.55,530.1 -21.63,-10.01 c -9.2817,34.078 -24.583,77.544 -63.262,136.54 l 14.639,6.8703 c 27.989,-45.637 55.112,-90.709 70.254,-133.4 z" />
+      </g>
+      <g
+         id="g3130">
+        <path
+           id="path3132"
+           d="m 412.15,663.4 -3.8376,-1.6721 c -71.357,108.67 -116,112.94 -136.77,104.41 -5.1461,-1.3047 -10.223,-2.4716 -12.006,2.9409 10.662,5.1113 59.413,35.209 152.62,-105.68 z"
+           fill="#cccccc" />
+      </g>
+      <g
+         id="g3134"
+         font-family="Sans">
+        <text
+           id="text3136"
+           style="text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           line-height="84%"
+           xml:space="preserve"
+           font-size="1.5882px"
+           transform="rotate(-152.72)"
+           y="-291.74377"
+           x="-626.59705"
+           fill="#ffffff">         <tspan
+   id="tspan3138"
+   y="-291.74377"
+   x="-626.59705"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">lskjiahdjskdfd</tspan>         <tspan
+   id="tspan3140"
+   y="-290.40967"
+   x="-626.59705"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdjsfasssjwei</tspan>         <tspan
+   id="tspan3142"
+   y="-289.07553"
+   x="-626.59705"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdflsskjs      eisksf</tspan>      </text>
+        <text
+           id="text3144"
+           style="letter-spacing:0px;word-spacing:0px"
+           xml:space="preserve"
+           transform="rotate(-152.51)"
+           line-height="125%"
+           font-size="4.3687px"
+           y="-291.5174"
+           x="-636.0968"
+           fill="#000000">         <tspan
+   id="tspan3146"
+   style="letter-spacing:-0.10922px"
+   font-weight="bold"
+   y="-291.5174"
+   x="-636.0968"
+   font-family="'Enter Sansman'"
+   fill="#ffffff">DOWTY</tspan>      </text>
+      </g>
+    </g>
+    <g
+       id="g3148"
+       transform="matrix(0.60787527,0,0,0.60787527,-56.216305,-32.325029)">
+      <g
+         id="g3150">
+        <path
+           id="path3152"
+           d="M 434.2,455.9 C 315.8,476.12 93.58,470.28 92.48,383.53 c 0.45564,-5.72 4.1231,-5.2071 7.9034,-4.9018 224.85,26.898 317.39,1.3853 318.72,4.0896 2.1606,4.3701 3.1627,14.111 6.4761,28.34 l 7.6373,0.15784 c -3.644,17.202 -2.7767,27.649 0.98399,44.684 z"
+           fill="#333333" />
+      </g>
+      <g
+         id="g3154">
+        <path
+           id="path3156"
+           d="m 410.64,459.42 -1.9325,-23.756 c -34.232,8.6933 -79.6,16.768 -149.99,12.134 l 1.2247,16.124 c 53.503,1.9013 106.09,3.3276 150.7,-4.5022 z" />
+      </g>
+      <g
+         id="g3158">
+        <path
+           id="path3160"
+           d="m 259.95,463.75 -0.43329,-4.1636 c -129.72,-8.63 -155.41,-45.39 -158.21,-67.67 -1.3971,-5.1217 -2.8803,-10.116 -8.4693,-9.0036 0.79844,11.797 -1.406,69.048 167.11,80.833 z"
+           fill="#cccccc" />
+      </g>
+      <g
+         id="g3162"
+         font-family="Sans">
+        <text
+           id="text3164"
+           style="text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           line-height="84%"
+           xml:space="preserve"
+           font-size="1.5882px"
+           transform="rotate(-92.2)"
+           y="350.86905"
+           x="-429.59027"
+           fill="#ffffff">         <tspan
+   id="tspan3166"
+   y="350.86905"
+   x="-429.59027"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">lskjiahdjskdfd</tspan>         <tspan
+   id="tspan3168"
+   y="352.20316"
+   x="-429.59027"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdjsfasssjwei</tspan>         <tspan
+   id="tspan3170"
+   y="353.53729"
+   x="-429.59027"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdflsskjs      eisksf</tspan>      </text>
+        <text
+           id="text3172"
+           style="letter-spacing:0px;word-spacing:0px"
+           line-height="125%"
+           xml:space="preserve"
+           font-size="4.3687px"
+           transform="matrix(-0.034784,-0.99939,0.99939,-0.034784,0,0)"
+           y="350.37711"
+           x="-436.76199"
+           fill="#000000">         <tspan
+   id="tspan3174"
+   style="letter-spacing:-0.10922px"
+   font-weight="bold"
+   y="350.37711"
+   x="-436.76199"
+   font-family="'Enter Sansman'"
+   fill="#ffffff">DOWTY</tspan>      </text>
+      </g>
+    </g>
+    <g
+       id="g3176"
+       transform="matrix(0.60787527,0,0,0.60787527,-56.216305,-32.325029)">
+      <g
+         id="g3178">
+        <path
+           id="path3180"
+           d="M 445.69,384.24 C 367.36,293.18 257.87,99.71 331.66,54.07 c 5.1372,-2.5565 6.5871,0.85101 8.2731,4.2483 92.79,206.57 162.33,272.74 160.7,275.28 -2.6323,4.1032 -10.465,9.9808 -20.953,20.151 l 3.7995,6.627 c -16.62,5.7392 -25.128,11.865 -37.79,23.865 z"
+           fill="#333333" />
+      </g>
+      <g
+         id="g3182">
+        <path
+           id="path3184"
+           d="m 430.54,365.86 19.365,-13.896 c -25.09,-24.85 -55.38,-59.58 -87.67,-122.29 l -13.189,9.3571 c 25.935,46.835 51.804,92.637 81.499,126.84 z" />
+      </g>
+      <g
+         id="g3186">
+        <path
+           id="path3188"
+           d="m 349.19,238.94 3.3452,-2.5164 c -59.44,-115.62 -41.18,-156.58 -23.52,-170.46 3.6698,-3.8362 7.1857,-7.6802 3.3532,-11.897 -9.6992,6.7621 -59.903,34.369 16.817,184.87 z"
+           fill="#cccccc" />
+      </g>
+      <g
+         id="g3190"
+         font-family="Sans">
+        <text
+           id="text3192"
+           style="text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           line-height="84%"
+           xml:space="preserve"
+           font-size="1.5882px"
+           transform="rotate(-33.212)"
+           y="500.09439"
+           x="205.07396"
+           fill="#ffffff">         <tspan
+   id="tspan3194"
+   y="500.09439"
+   x="205.07396"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">lskjiahdjskdfd</tspan>         <tspan
+   id="tspan3196"
+   y="501.4285"
+   x="205.07396"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdjsfasssjwei</tspan>         <tspan
+   id="tspan3198"
+   y="502.76263"
+   x="205.07396"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdflsskjs      eisksf</tspan>      </text>
+        <text
+           id="text3200"
+           style="letter-spacing:0px;word-spacing:0px"
+           xml:space="preserve"
+           transform="rotate(-33.005)"
+           line-height="125%"
+           font-size="4.3687px"
+           y="497.30106"
+           x="198.43895"
+           fill="#000000">         <tspan
+   id="tspan3202"
+   style="letter-spacing:-0.10922px"
+   font-weight="bold"
+   y="497.30106"
+   x="198.43895"
+   font-family="'Enter Sansman'"
+   fill="#ffffff">DOWTY</tspan>      </text>
+      </g>
+    </g>
+    <g
+       id="g3204"
+       transform="matrix(0.60787527,0,0,0.60787527,-56.216305,-32.325029)">
+      <g
+         id="g3206">
+        <path
+           id="path3208"
+           d="M 519.36,358.22 C 560.97,245.54 676.99,55.92 752.7,98.29 c 4.7284,3.2511 2.4526,6.1724 0.30042,9.2952 -135.58,181.38 -159.69,274.29 -162.7,274.1 -4.8651,-0.31024 -13.805,-4.3062 -27.788,-8.5405 l -3.9504,6.5382 c -13.084,-11.747 -22.569,-16.212 -39.206,-21.46 z"
+           fill="#333333" />
+      </g>
+      <g
+         id="g3210">
+        <path
+           id="path3212"
+           d="m 528.08,336.05 21.547,10.188 c 9.5618,-34 25.22,-77.339 64.384,-136.01 l -14.582,-6.9905 c -28.364,45.406 -55.857,90.252 -71.349,132.81 z" />
+      </g>
+      <g
+         id="g3214">
+        <path
+           id="path3216"
+           d="m 599.58,203.33 3.8237,1.7036 c 72.25,-108.07 116.92,-111.98 137.63,-103.28 5.1352,1.347 10.202,2.5556 12.03,-2.842 -10.62,-5.198 -59.13,-35.695 -153.48,104.42 z"
+           fill="#cccccc" />
+      </g>
+      <g
+         id="g3218"
+         font-family="Sans">
+        <text
+           id="text3220"
+           style="text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           line-height="84%"
+           xml:space="preserve"
+           font-size="1.5882px"
+           transform="rotate(27.756)"
+           y="9.6359749"
+           x="669.08411"
+           fill="#ffffff">         <tspan
+   id="tspan3222"
+   y="9.6359749"
+   x="669.08411"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">lskjiahdjskdfd</tspan>         <tspan
+   id="tspan3224"
+   y="10.970096"
+   x="669.08411"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdjsfasssjwei</tspan>         <tspan
+   id="tspan3226"
+   y="12.304217"
+   x="669.08411"
+   style="text-align:center;text-anchor:middle"
+   line-height="84%">sdflsskjs      eisksf</tspan>      </text>
+        <text
+           id="text3228"
+           style="letter-spacing:0px;word-spacing:0px"
+           line-height="125%"
+           xml:space="preserve"
+           font-size="4.3687px"
+           transform="rotate(27.963)"
+           y="5.1640177"
+           x="660.6684"
+           fill="#000000">         <tspan
+   id="tspan3230"
+   style="letter-spacing:-0.10922px"
+   font-weight="bold"
+   y="5.1640177"
+   x="660.6684"
+   font-family="'Enter Sansman'"
+   fill="#ffffff">DOWTY</tspan>      </text>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata202">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Dowty 6-blade propeller</dc:title>
+        <dc:date>2013-10-17T03:36:59</dc:date>
+        <dc:description>The 6-bladed propeller often seen on the Bombardier Q400 regional airliner. </dc:description>
+        <dc:source>https://openclipart.org/detail/185074/dowty-6-blade-propeller-by-aerogeek-185074</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>AeroGeek</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Dowty</rdf:li>
+            <rdf:li>Prop</rdf:li>
+            <rdf:li>airliner</rdf:li>
+            <rdf:li>airplane</rdf:li>
+            <rdf:li>aviation</rdf:li>
+            <rdf:li>propeller</rdf:li>
+            <rdf:li>turboprop</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
