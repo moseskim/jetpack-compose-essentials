@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             IntrinsicSizeDemoTheme {
-                // A surface container using the 'background' color from the theme
+                // 테마의 'background' 색상을 이용하는 서피스 컨테이너
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background

@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 
-// Set of Material typography styles to start with
+// 시작 시 이용할 머티리얼 타이포그래피 셋
 val Typography = Typography(
     body1 = TextStyle(
         fontFamily = FontFamily.Default,
